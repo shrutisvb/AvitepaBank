@@ -18,6 +18,7 @@ public class AvitepaBankApplication {
 	private AccountRepository accountRepository;
 	
 	public static void main(String[] args) {
+		System.out.prinltn();
 		SpringApplication.run(AvitepaBankApplication.class, args);
 		
 	}
